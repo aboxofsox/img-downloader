@@ -1,0 +1,2 @@
+### Usage
+`./scrape.exe <url>`
